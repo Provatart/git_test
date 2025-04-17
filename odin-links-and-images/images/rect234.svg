@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="200.00002mm"
+   viewBox="0 0 300 200.00002"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="rect234.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview365"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.55430204"
+     inkscape:cx="394.18942"
+     inkscape:cy="404.11181"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-33.207458,-91.934669)">
+    <rect
+       style="fill:#808080;stroke-width:1.823"
+       id="rect234"
+       width="300"
+       height="200"
+       x="33.207458"
+       y="91.934669" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:48.8178px;font-family:C059;-inkscape-font-specification:'C059 Bold';text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:9.00961"
+     x="152.21317"
+     y="85.33606"
+     id="text646"
+     transform="scale(0.98199556,1.0183345)"><tspan
+       sodipodi:role="line"
+       id="tspan644"
+       style="fill:#b3b3b3;stroke-width:9.00961"
+       x="152.21317"
+       y="85.33606">Placeholder</tspan><tspan
+       sodipodi:role="line"
+       style="fill:#b3b3b3;stroke-width:9.00961"
+       x="152.21317"
+       y="146.35834"
+       id="tspan648">300×200</tspan></text>
+</svg>
